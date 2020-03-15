@@ -33,7 +33,7 @@ Examples:
 Run PCA For bank marketing problem:
     python unsupervised_learning.py  --dataset="bank" --task="pca"
 Run NN on projected data for diseased tree problem
-    python supervised_learning.py  --dataset="tree" --task="NN"
+    python unsupervised_learning.py  --dataset="tree" --task="NN"
 
 4. The data sets are already included. They were obtained from:
 
