@@ -1,4 +1,4 @@
-name: ml7641_UL
+name: ml7641
 dependencies:
 - python=3.7.2
 - matplotlib=3.0.3

@@ -6,6 +6,7 @@ The libraries include:
 - matplotlib=3.0.3
 - numpy=1.16.2
 - pandas=0.24.1
+- seaborn=0.10.0
 - mlrose==1.3.0
 3. Run the program to run the experiments and produce the graphs for 2 problems:
 Syntax:
